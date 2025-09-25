@@ -1,0 +1,45 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/icons">
+    <file>assets/icons/calendrier.ico</file>
+    <file>assets/icons/dent.ico</file>
+    <file>assets/icons/dent.PNG</file>
+    <file>assets/icons/logo_cabinet_defaut.PNG</file>
+    <file>assets/icons/Imagerie.ico</file>
+    <file>assets/icons/Logo.ico</file>
+    <file>assets/icons/paiements.ico</file>
+    <file>assets/icons/11.ico</file>
+    <file>assets/icons/12.ico</file>
+    <file>assets/icons/13.ico</file>
+    <file>assets/icons/14.ico</file>
+    <file>assets/icons/15.ico</file>
+    <file>assets/icons/16.ico</file>
+    <file>assets/icons/17.ico</file>
+    <file>assets/icons/18.ico</file>
+    <file>assets/icons/21.ico</file>
+    <file>assets/icons/22.ico</file>
+    <file>assets/icons/23.ico</file>
+    <file>assets/icons/24.ico</file>
+    <file>assets/icons/25.ico</file>
+    <file>assets/icons/26.ico</file>
+    <file>assets/icons/27.ico</file>
+    <file>assets/icons/28.ico</file>
+    <file>assets/icons/31.ico</file>
+    <file>assets/icons/32.ico</file>
+    <file>assets/icons/33.ico</file>
+    <file>assets/icons/34.ico</file>
+    <file>assets/icons/35.ico</file>
+    <file>assets/icons/36.ico</file>
+    <file>assets/icons/37.ico</file>
+    <file>assets/icons/38.ico</file>
+    <file>assets/icons/41.ico</file>
+    <file>assets/icons/42.ico</file>
+    <file>assets/icons/43.ico</file>
+    <file>assets/icons/44.ico</file>
+    <file>assets/icons/45.ico</file>
+    <file>assets/icons/46.ico</file>
+    <file>assets/icons/47.ico</file>
+    <file>assets/icons/48.ico</file>
+    <file>assets/icons/splash_logo.ico</file>
+    <file>assets/icons/grosse_dent.ico</file>
+</qresource>
+</RCC>
