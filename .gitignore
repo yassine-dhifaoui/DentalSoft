@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# folders
+dist/
+Output/
+build/
+
+# files
+DentalSoft.spec
